@@ -1,0 +1,30 @@
+
+                           Event Manager App
+                          version  2005-08-10
+                       Copyright 2005 FreeCode AS
+
+About
+=====
+
+Event Manager App is a web based registration system written in java.
+Although it was originally written for Exporama, one of Norways largest
+organizers of trade fairs, it is suitable for any trade fair organisers.
+
+The Event Manager App has these features:
+
+  * Generation of templates for trade fair web sites,
+  * Creating specific instances of trade fair web sites
+  * Generating attendees tags including logos and bar codes forregistration
+    as well as any wanted fields such as name, company etc.
+  * Reports such as total attendees, attendees with a specific position
+    within their company, how many CEOs from companies is at the trade
+    fair today who was also here yesterday etc. 
+
+Install
+=======
+
+Dependencies:
+
+  * iText, http://www.lowagie.com/iText/
+  * PostgreSQL JDBC driver, http://jdbc.postgresql.org/ 
+  * Commons FileUpload, http://jakarta.apache.org/commons/fileupload/

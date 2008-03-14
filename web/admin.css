@@ -1,0 +1,71 @@
+body 
+{ 
+	font-family:		Verdana, Arial, Helvetica, sans-serif;
+       	color:            	black;
+       	background-color: 	white;
+}
+
+th.heading
+{
+	margin-top:		12px;
+	color:			white;
+	background-color:	#4C65B0;
+	font-size:		10px;
+}
+
+th
+{
+	font-size:		10px;
+       	color:            	black;
+       	background-color: 	white;
+	border:			medium;
+}
+
+td
+{
+	font-size:		12px;
+}
+
+input
+{
+	background-color:	#EEEEEE;
+	color:			#4C65B0;
+	border-style:		solid;
+}
+
+select
+{
+	background-color:	white;
+	color:			#4C65B0;
+	border-style:		solid;
+}
+
+h1
+{
+	font-size:		18px;
+}
+
+h2
+{
+	font-size:		16px;
+}
+
+div.left
+{
+/*	
+	position: 		fixed;
+	top: 			2em;
+ 	left: 			auto;
+  	width: 			8.5em;
+  	right: 			2em;
+*/
+	float:			left;
+}
+
+div.badge
+{
+	padding:		10px;
+	margin:			100px;
+	border-style:		solid;
+	float:			left;
+}
